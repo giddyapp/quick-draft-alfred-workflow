@@ -6,7 +6,7 @@ Interacting externally with Quick Draft requires unlocking Quick Draft Pro.
 
 ## Installation
 
-- [https://github.com/giddyapp/quick-draft-alfred-workflow/blob/master/Quick%20Draft.alfredworkflow?raw=true](Download the Alfred Workflow)
+- [Download the Alfred Workflow](https://github.com/giddyapp/quick-draft-alfred-workflow/blob/master/Quick%20Draft.alfredworkflow?raw=true)
 
 - Double click the workflow to import into Alfred
 
