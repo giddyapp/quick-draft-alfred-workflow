@@ -1,12 +1,12 @@
 # Quick Draft Alfred Workflow
 
-You can quickly add text to your Quick Draft scratchpad using Alfred. For questions, reach out to hello@giddyapp.io or via creating a GitHub issue.
+You can quickly add text to your Quick Draft scratchpad using Alfred. For questions, reach out to [hello@giddyapp.io](mailto:hello@giddyapp.io) or by creating a GitHub issue. Not using Quick Draft? Check it out at [https://quickdraft.app](https://quickdraft.app).
 
 Interacting externally with Quick Draft requires unlocking Quick Draft Pro. 
 
 ## Installation
 
-- Download the Alfred Workflow
+- [https://github.com/giddyapp/quick-draft-alfred-workflow/blob/master/Quick%20Draft.alfredworkflow?raw=true](Download the Alfred Workflow)
 
 - Double click the workflow to import into Alfred
 
@@ -21,3 +21,4 @@ Append text to your existing scratchpad.
 `qdp {text}` 
 
 Prepend text to your existing scratchpad.
+
